@@ -1,2 +1,9 @@
 theme: jekyll-theme-hacker
-if: HTML5
+ var theme = -hacker([
+   theme,
+   jekkyll
+]);
+print(theme);
+if (theme === HTML5) {
+}
+newLine()
